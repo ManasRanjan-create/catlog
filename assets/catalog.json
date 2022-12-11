@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name":"iPhone 12 Pro Max",
+        "desc": "Apple iPhone 12 generation",
+        "price": 999,
+        "color": "#33505a",
+        "image": "https://www.google.com/search?q=iphone+12+pro+%2333505a+images&rlz=1C1CHBF_enIN970IN970&sxsrf=APq-WBsgbIYDcc-7GdKB4WNtTNXwGi3qIA:1643574295559&tbm=isch&source=iu&ictx=1&vet=1&fir=yIr_G3p4GpNWeM%252CdSdw7NJE-cwvQM%252C_%253BLej4AANvzRMalM%252CdSdw7NJE-cwvQM%252C_%253BtX3EtA-VYtsdhM%252CtRngmMxYyhRSzM%252C_%253BmNd6FozzT7ogiM%252CH4VTx-TtpWoMxM%252C_%253Bc8o3P3ld8pXOPM%252Ck4XEcYDff1-pdM%252C_%253BRIqlhVFXKZOYyM%252CvzXl5li2Su9JiM%252C_%253Bc49NClUJ8_WZeM%252CosPonFcsA6If0M%252C_%253B4MHtDDe5-CLDVM%252CLm0o6ERhn7jcXM%252C_%253BoKiamJEZYsbI7M%252CvzXl5li2Su9JiM%252C_%253Bsaf4HeFxJoKPSM%252CyAsZU4z0sJHsPM%252C_&usg=AI4_-kQnsdFylgZ6dyUHDU39RjaojnJ0Vw&sa=X&ved=2ahUKEwjYwLGwp9r1AhWtSGwGHdDABHgQ9QF6BAgKEAE#imgrc=4MHtDDe5-CLDVM"
+  
+      },
+      {
+        "id": 2,
+        "name": "iPhone 13",
+        "desc": "Apple iPhone 13 generation",
+        "price": 1099,
+        "color": "#00008B",
+        "image": "https://www.google.com/search?q=iphone+13+blue+color+images&rlz=1C1CHBF_enIN970IN970&sxsrf=APq-WBvEXjLGv3EICoumGwSngZDvSCSi6w:1643574206635&tbm=isch&source=iu&ictx=1&vet=1&fir=H6qjXnlHdkKy8M%252CqFJ8Bzt8e3qVUM%252C_%253B_5teDp9s-n_FhM%252CsP1Uy_nwr8CzBM%252C_%253BmRnx5rjy33IOfM%252CqFJ8Bzt8e3qVUM%252C_%253BI5PWBkzGZkreGM%252CmW0AGxunIiqh-M%252C_%253BNymQ1nYEsopicM%252C0NqeqHkZ9L_C1M%252C_%253BHHXBGAWP-XkgmM%252CUbzx8nEkpUV1LM%252C_%253BhmBvQb2Rjw_avM%252CQUUW2msBv8SCWM%252C_%253BIZdGXJMNTFq5nM%252C92IMYCyKax-9lM%252C_%253Bzt6BOrYFj-B3AM%252C0NqeqHkZ9L_C1M%252C_%253BSOioxAYKwrolnM%252Ce-B2bPpm5egTAM%252C_%253Bp_DxwdlsYazv8M%252CKzelxRIL44R-fM%252C_%253BkPNeiVtSoac1jM%252C_cRJaN-XUp44pM%252C_%253BPwvYyA4d_qAWfM%252CF8TpmIR6SL0zmM%252C_%253B2q8wNnzY29ZMlM%252CTpKAlZlIqxH9XM%252C_&usg=AI4_-kR83G44JV_tP_XUfEQkYBBJ3H2xeg&sa=X&ved=2ahUKEwju5v2Fp9r1AhXcT2wGHQOUD4UQ9QF6BAgREAE&biw=1347&bih=648&dpr=1#imgrc=mRnx5rjy33IOfM"
+  
+      },
+      {
+        "id": 3,
+        "name": "iPhone 13 Pro",
+        "desc": "Apple iPhone 13 generation",
+        "price": 1199,
+        "color": "#0a0909",
+        "image": "https://www.google.com/search?q=apple+iphone+13+pro+images+black+colors&rlz=1C1CHBF_enIN970IN970&sxsrf=APq-WBvT0MvIonAvp2TQhARHoGOkIzlL1w:1643574122737&tbm=isch&source=iu&ictx=1&vet=1&fir=x1Uwkmy8husckM%252CurYqoUwU0J4NnM%252C_%253Bhuj8rYP-a5STLM%252CinI6iXM3VlWUmM%252C_%253BXk_Gwf0M0nW29M%252CDfScCT2NNiSbVM%252C_%253BftrqV_L0W_g8gM%252Chmnk6Wnx4lvoKM%252C_%253BMaJgBdR_0jpW4M%252CqKXBVm_35V_iWM%252C_%253BYQcIC7p_SSGbUM%252C1iCJNf9LoxACTM%252C_%253Bvuk-wPaj8HuH8M%252CATjxDOf_ngmIwM%252C_%253Bare8DZUskrvQLM%252C0NqeqHkZ9L_C1M%252C_%253B-SeXOsguf2HYUM%252CbhlpNxKi_lLq3M%252C_%253BfwIF5H38D68JtM%252CWoy5D59_CFJ1rM%252C_%253B8wtLYzF9XjTWIM%252CeaC7TPXK2bvvnM%252C_%253BQTGBz17VsjctHM%252C1iCJNf9LoxACTM%252C_&usg=AI4_-kSKNskfNXrENYBfZUybBfwN7PL08g&sa=X&ved=2ahUKEwiKi_3dptr1AhUySWwGHf06BOAQ9QF6BAgLEAE&biw=1347&bih=648&dpr=1#imgrc=-SeXOsguf2HYUM"
+      },
+      {
+        "id": 4,
+        "name": " Apple Watch",
+        "desc": " Apple Watch Series 7",
+        "price": 499,
+        "color": "#0e2114",
+        "image": "https://www.google.com/search?q=apple+watch+series+7+green+color+image&rlz=1C1CHBF_enIN970IN970&sxsrf=APq-WBtMjTc3hDjl6CR7GwaqRc-4fCZWbg:1643573988894&tbm=isch&source=iu&ictx=1&vet=1&fir=LWLEznVGj7cSXM%252CrOpbXIRFxR-37M%252C_%253B8pwbIu__yaPO4M%252CrOpbXIRFxR-37M%252C_%253BZ5L1tWmtqnlQ8M%252ClaYWnP7Q62KXiM%252C_%253BQ9YAouXu2mV9_M%252CbsPA5bomBG4RbM%252C_%253BWTtMoppGZY_rUM%252CVDAJUVuNc4V0aM%252C_%253BahQCpZexfP2C_M%252CVDAJUVuNc4V0aM%252C_%253BtIJqecJsPD4hqM%252CbtjV9ahQ4YTz-M%252C_%253BEYqkBbkAcGp95M%252CwuaLI-mkOOKZgM%252C_%253Bwj_jdFLII85RTM%252CdkXQf1_2dVqNlM%252C_%253BBRTEdnWVGz2uyM%252C4lgKWeb5Ot41JM%252C_&usg=AI4_-kSXjIyHCNJd47604tv7DHBOe4cejA&sa=X&ved=2ahUKEwjb7pOeptr1AhUlRWwGHUDOAwIQ9QF6BAgKEAE#imgrc=Z5L1tWmtqnlQ8M"
+      }
+  
+    ]
+  }
